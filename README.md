@@ -11,7 +11,6 @@ This repository contains my notes and practice files as I learn **TypeScript**.
 - TypeScript basics and syntax  
 - Type inference and types  
 - Functions, interfaces, and generics  
-- Working with classes and modules  
 
 ---
 
