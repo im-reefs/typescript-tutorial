@@ -149,4 +149,4 @@ console.log(orderQueue);
 console.log("Fetching pizza detail on menu with id 5...", getPizzaDetail("New York"));
 
 //another way to console.log function returns
-console.log(getPizzaDetail("New York"));
+console.log(getPizzaDetail("Neopolitan"));
